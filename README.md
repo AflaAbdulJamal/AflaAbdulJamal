@@ -1,63 +1,61 @@
-Hi there, I'm Afla Abdul Jamal 👋
-About Me
+<div align="center">
 
-I am Afla Abdul Jamal, a passionate technology enthusiast with a strong interest in software development, problem-solving, and continuous learning. I am committed to expanding my technical skills through hands-on projects, collaborative learning, and industry experience.
+# 👋 Hi, I'm Afla Abdul Jamal
 
-Currently, I am gaining practical experience through my internship at KELTRON, where I am enhancing my knowledge of modern technologies, software development practices, and professional workflows.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Afla+Abdul+Jamal;KELTRON+Intern;Aspiring+Software+Developer;Tech+Enthusiast+from+Kerala+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 
-🚀 KELTRON Internship
-Internship Overview
-Organization: KELTRON (Kerala State Electronics Development Corporation Limited)
-Role: Intern
-Focus Areas: Software Development, Programming, Technology Solutions, and Industry Practices
-Duration: [Add Internship Duration]
-Key Learning Outcomes
-Strengthened programming and development skills.
-Gained exposure to real-world software development environments.
-Learned industry-standard development practices and workflows.
-Improved problem-solving and analytical thinking abilities.
-Collaborated with peers and mentors on technical tasks and projects.
-Technologies & Skills
-Programming Fundamentals
-Software Development
-Web Technologies
-Database Concepts
-Version Control (Git & GitHub)
-Problem Solving
-Team Collaboration
-🛠️ Technical Skills
-Languages
-Python
-JavaScript
-Java
-C/C++
-Web Development
-HTML5
-CSS3
-JavaScript
-React (if applicable)
-Tools & Technologies
-Git
-GitHub
-VS Code
-Database Management Systems
-📚 Currently Learning
-Full Stack Development
-Modern JavaScript Frameworks
-Database Design
-Cloud Technologies
-Software Engineering Best Practices
-🎯 Career Goals
-Build innovative software solutions.
-Contribute to open-source projects.
-Develop expertise in modern web technologies.
-Grow as a professional software developer.
-📈 GitHub Stats
+</div>
 
-📫 Connect With Me
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
-Email: your.email@example.com
-✨ Quote
+---
 
-"Learning never exhausts the mind. Every project is an opportunity to grow."
+## 🚀 About Me
+
+🎓 KELTRON Intern  
+💻 Passionate about Software Development  
+🌱 Continuously learning new technologies  
+🔍 Interested in Web Development & Problem Solving  
+⚡ Turning ideas into practical solutions
+
+---
+
+## 🏢 KELTRON Internship
+
+- Gained hands-on industry experience
+- Worked with modern development tools and workflows
+- Improved technical and collaborative skills
+- Learned software development best practices
+- Enhanced problem-solving abilities
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Afla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile ✨
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Afla+Abdul+Jamal;KELTRON+Intern;Future+Software+Engineer" />
+
+</div>
