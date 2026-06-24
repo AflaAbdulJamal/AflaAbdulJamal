@@ -1,6 +1,7 @@
 <div align="center">
 
-# 👋 Hi, I'm Afla Abdul Jamal
+# 👋 Hi, I'm jamalikaaaaaaaaaaaaaaa
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Afla+Abdul+Jamal;KELTRON+Intern;Aspiring+Software+Developer;Tech+Enthusiast+from+Kerala+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 
